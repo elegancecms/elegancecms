@@ -21,12 +21,12 @@ This platform is designed for developers and businesses who need a scalable, lic
 Elegance CMS is built on a hybrid architecture designed for performance, flexibility, and modern development standards:
 
 - 🛠️ **Admin Panel:** Laravel Blade + Vue.js  
-  A lightweight and proven backend experience with fast rendering and classic form control.
+  A lightweight, proven backend experience with classic form handling and fast-rendering views.
 
-- 🌐 **Frontend:** Laravel + Inertia.js + React  
-  A reactive SPA-like frontend for users, fully extendable with JSX components and dynamic routing.
+- 🌐 **Frontend:** Laravel + Inertia.js + **React (with TypeScript / `.tsx`)**  
+  A powerful, modern frontend structure using TypeScript for type safety and scalability — delivering SPA-like responsiveness with robust typing and tooling support.
 
-This layered architecture empowers both backend developers and frontend teams to work efficiently without sacrificing maintainability or performance.
+This layered architecture empowers backend developers and frontend teams to work independently yet cohesively — without sacrificing performance, maintainability, or code quality.
 
 ## 🧪 Live Demo
 
