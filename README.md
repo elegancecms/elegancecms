@@ -1,6 +1,6 @@
-# ✨ EleganceCMS
+# ✨ Elegance CMS
 
-**EleganceCMS** is a modular, extensible, and developer-first content management system built with Laravel, Inertia.js, and React.
+**Elegance CMS** is a modular, extensible, and developer-first content management system built with Laravel, Inertia.js, and React.
 
 This platform is designed for developers and businesses who need a scalable, licensed CMS with full control, plugin architecture, and a rich admin experience.
 
@@ -18,7 +18,7 @@ This platform is designed for developers and businesses who need a scalable, lic
 
 ## 🧪 Live Demo
 
-Experience EleganceCMS in action:
+Experience Elegance CMS in action:
 
 👉 **[demo.elegancecms.com](https://demo.elegancecms.com)**
 
@@ -32,7 +32,7 @@ Experience EleganceCMS in action:
 
 ## 📦 Licensing & Access
 
-EleganceCMS is a **licensed commercial product**.  
+Elegance CMS is a **licensed commercial product**.  
 To get access:
 
 🔑 License Server: [license.elegancecms.com](https://license.elegancecms.com)  
